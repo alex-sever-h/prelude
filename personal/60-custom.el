@@ -31,6 +31,8 @@
 
 (line-number-mode 1)
 
+(setq-default truncate-lines t)
+
 ; This is to override prelude behaviour of C-left C-right
 (custom-set-variables
  '(sp-override-key-bindings (quote (("C-<right>") ("C-<left>")))))
