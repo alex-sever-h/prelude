@@ -1,1 +1,1 @@
-(setq prelude-theme 'manoj-dark)
+(setq prelude-theme 'deeper-blue)
