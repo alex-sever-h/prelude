@@ -1,4 +1,4 @@
-(prelude-require-packages '(iedit ecb vlf ag))
+(prelude-require-packages '(iedit ecb vlf ag android-mode))
 
 (cua-mode 1)
 
